@@ -1,6 +1,9 @@
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+# Demo Video
 
-## Development server
+https://www.veed.io/view/dc9bf914-9057-4ab1-8eda-4a4b70a84a33?panel=share
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Pic
+
+![image](https://user-images.githubusercontent.com/90901888/212737867-e47f8db6-025c-469a-8552-f5db44198169.png)
+
